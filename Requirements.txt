@@ -1,0 +1,16 @@
+#Heading: Expense Tracker
+
+#3 input fields:
+
+-one for name
+-one for Date
+-one for Amount 
+
+#an Add Expense Button
+
+#a table with 4 columns:
+
+-one for the names
+-one for the Dates
+-one for the Amounts
+-one for the delete buttons
